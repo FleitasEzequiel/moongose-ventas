@@ -1,17 +1,23 @@
-## PROYECTO DE VENTAS MONGOOSE
+# PROYECTO DE VENTAS MONGOOSE
 
 Proyecto realizado en el área de Taller de Lenguaje de Programación de la Tecnicatura de Desarrollo de Software MultiPlataforma del Instituto Politécnico Formosa.
 
-## Instalación
+# Instalación
 
 1. Copiar el repositorio
+```bash
    > git clone https://github.com/FleitasEzequiel/moongose-ventas.git
+
+```
 2. Instalar la dependencia Mongoose con el comando npm Install dentro de la carpeta _mongoose-ventas_
+
+```bash
    > cd mongoose-ventas
    > npm i
+```
 3. Disfrutar.
 
-## Acerca de los modelos
+# Acerca de los modelos
 
 Este archivo contiene 4 modelos de Mongoose:
 
